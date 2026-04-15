@@ -28,5 +28,11 @@
         "product": "Monitor",
         "price": 300,
         "category": "electronics"
+    },
+    {
+        "id": 6,
+        "product": "RPG",
+        "price": 7500,
+        "category": "misc"
     }
 ]
